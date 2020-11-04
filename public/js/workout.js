@@ -17,7 +17,7 @@ async function initWorkout() {
   } else {
     renderNoWorkoutText()
   }
-}
+
 
 function tallyExercises(exercises) {
   const tallied = exercises.reduce((acc, curr) => {
@@ -80,5 +80,5 @@ function renderNoWorkoutText() {
   p.appendChild(strong);
   container.appendChild(p);
 }
-
+}
 initWorkout();
