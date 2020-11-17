@@ -42,6 +42,11 @@
   ## Author
   ![GitHub profile pic](https://avatars3.githubusercontent.com/u/65515339?v=4)
   ## Badges
+  
+  
+  
+  ![workout gif](https://user-images.githubusercontent.com/65515339/99338935-090d1a80-283a-11eb-9b0f-87b85e541036.gif)
+
  
   
  
