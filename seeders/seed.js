@@ -1,7 +1,7 @@
 let mongoose = require("mongoose");
 let db = require("../models");
 
-mongoose.connect("mongodb://localhost/workoutDB", {
+mongoose.connect("mongodb+srv://dgchromy:Sunshine6992@cluster0.y8qhk.mongodb.net/workoutDB?", {
   useNewUrlParser: true,
   useFindAndModify: false
 });
