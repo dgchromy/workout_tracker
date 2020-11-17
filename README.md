@@ -1,9 +1,7 @@
-# workout_tracker
 
-
-    # Project Title : burger
+    # Project Title : workout_tracker
   ## Project Description:
-  it is a burger app that you can save aburger you create to a mysql database and it is deployed on heroku 
+  app to track your workouts 
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
@@ -14,13 +12,13 @@
   * [Author] (#Author)
   * [Badges](#badges)
   ## Installation
-  go to repo on git hub and clone 
+  clone repo to local and instal dependencies
   ## Usage
-  type your burger in and click save burger to delete hig devour burger
+  
   ## Contributors
-  douglas mitchell dan seese and Jon Bower 
+  Jon bower Douglas Mitchell Moses Kamara 
   ## Test
-  no 
+  
   ## Questions
   If you have any questions, contact dgchromy on GitHub.
   ## License
@@ -45,4 +43,5 @@
   ![GitHub profile pic](https://avatars3.githubusercontent.com/u/65515339?v=4)
   ## Badges
  
+  
  
